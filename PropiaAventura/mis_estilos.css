@@ -1,0 +1,48 @@
+.titulo-h1{
+    text-align: center;
+    color:#f1c40f;
+}
+
+.imagen{
+    height: 700px;
+    width: 1900px;  
+}
+
+body{
+    background-color: #2f3640;
+}
+
+.boton{
+    color: #000000;
+    background-color: #f1c40f;
+    padding: 8px 100px;
+    border-radius: 35px;
+    box-sizing: border-box;
+    text-align: center;
+    border: 1px solid #f1c40f;
+    outline: none;
+    text-decoration: none;
+    margin-top: 20px;
+}
+
+.div-boton{
+    margin-top: 50px;
+    text-align: center;
+    display: grid;
+    width:20%;
+    margin-left: 40%;
+}
+
+.parrafo{
+    color:#f1c40f;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.parrafos{
+    width: 60%;
+    margin-left: 20%;
+    margin-top: 20px;
+    line-height: 1.5;
+}
+
